@@ -1,0 +1,41 @@
+*
+{
+    margin: 0px;
+}
+.head
+{
+    background-color: hotpink;
+    border-bottom: 4px solid black;
+    margin: 0px;
+    height: 200px;
+}
+h1
+{
+    padding: 20px;
+    color: rgb(26, 153, 196);
+    text-align: center;
+    position: sticky;
+    top: 20px;
+}
+.navigation
+{
+    color: darkblue;
+    position: sticky;
+    top: 0px;
+    background-color: black;
+}
+li
+{
+    list-style-type: none;
+    display: inline-block;
+    font-weight: bold;
+    align-content: flex-start;
+    padding: 4px;
+    font-size: 25px;
+}
+.main
+{
+    padding: 10px;
+    border: 2px solid whitesmoke;
+    margin: 10px;
+}

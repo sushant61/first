@@ -1,0 +1,75 @@
+body
+{
+    margin: 10px;
+    padding: 50px;
+}
+.container
+{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    row-gap: 30px;
+    column-gap: 30px;
+}
+img
+{
+    height: 40%;
+    width: 100%;
+}
+.first
+{
+    border: 1px solid black;
+    width: 100%;
+    height: 500px;
+}
+.text
+{
+    padding: 5px 20px 20px 20px;
+    font-size: 20px;
+}
+h2
+{
+    font-weight: bold;
+}
+.sixth
+{
+    border: 1px solid black;
+    width: 100%;
+    height: 500px;
+}
+.second
+{
+    border: 1px solid black;
+    width: 100%;
+    height: 500px;
+}
+.third
+{
+    border: 1px solid black;
+    width: 100%;
+    height: 500px;
+}
+.fourth
+{
+    border: 1px solid black;
+    width: 100%;
+    height: 500px;
+    margin-bottom: 30px;
+}
+.fifth
+{
+    border: 1px solid black;
+    width: 100%;
+    height: 500px;
+}
+a
+{
+    border: none;
+    padding: 5px ;
+    padding-right: 100px;
+    padding-left: 100px;
+    margin: 20px;
+    width: 100%;
+    height: 20px;
+    background-color: rgba(48, 43, 38, 0.514);
+    color: cornsilk;
+}

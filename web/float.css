@@ -1,0 +1,77 @@
+.Main
+{
+    padding: 25px;
+    border: 1px solid black;
+    margin: 4px;
+}
+.one
+{
+    padding: 10px;
+    border: 1px solid #f2f2f2;
+    margin: 10px;
+    background-color: lightblue;
+    width: 98%;
+    height: 250px;
+    text-align: left;
+}
+.two
+{
+    padding: 10px;
+    border: 1px solid #f2f2f2;
+    margin: 10px;
+    background-color: lightblue;
+    width: 98%;
+    height: 250px;
+}
+.three
+{
+    padding: 10px;
+    border: 1px solid #f2f2f2;
+    margin: 10px;
+    background-color: lightblue;
+    width: 98%;
+    height: 250px;
+}
+.four
+{
+    padding: 10px;
+    border: 1px solid #f2f2f2;
+    margin: 10px;
+    background-color: lightblue;
+    width: 98%;
+    height: 250px;
+}
+.Male1
+{
+    float: left;
+}
+.Male2
+{
+    float: right;
+}
+.Male3
+{
+    float: left;
+}
+.Male4
+{
+    float: right;
+}
+.clear1
+{
+    clear: right;
+    padding: 0px 220px;
+}
+.clear2
+{
+    clear: left;
+}
+.clear3
+{
+    clear: right;
+    padding: 0px 220px;
+}
+.clear4
+{
+    clear: left;
+}
